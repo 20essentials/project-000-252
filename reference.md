@@ -1,0 +1,2 @@
+- **Reference ⬇️**
+  - [Pattern Svg](https://loading.io/pattern/)
